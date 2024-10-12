@@ -1,6 +1,6 @@
-base_url = "https://seniormars.github.io/redux/"
-title = "seniormars"
-description = "This is an example description"
+base_url = "https://cryosnake22.github.io/redux/"
+title = "CharloPL"
+description = "My personnal website"
 build_search_index = false
 feed_filenames = ["rss.xml"]
 generate_feeds = true
@@ -21,11 +21,11 @@ toc = true
 use_cdn = false
 favicon = "/icon/favicon.png"
 favicon_extra = false
-theme = "toggle"                                                             # light, dark, auto, toggle
+theme = "toggle"                                                       # light, dark, auto, toggle
 comment = false
 fancy_code = true
 dynamic_note = true
-repo_url = "https://github.com/SeniorMars/seniormars.com/blob/main/content/"
+repo_url = "https://github.com/CryoSnake22/charlopl.com/tree/gh-pages"
 mathjax = true
 mathjax_extra = true
 
@@ -37,10 +37,10 @@ menu = [
 ]
 
 socials = [
-  { name = "github", url = "https://github.com/seniormars/", icon = "github" },
-  { name = "youtube", url = "https://www.youtube.com/seniormarstries", icon = "youtube" },
-  { name = "rss", url = "/rss.xml", icon = "rss" },
-  { name = "linkedin", url = "https://linkedin.com", icon = "linkedin" },
+  { name = "github", url = "https://github.com/CryoSnake22", icon = "github" },
+  { name = "youtube", url = "", icon = "youtube" },
+  { name = "rss", url = "", icon = "rss" },
+  { name = "linkedin", url = "", icon = "linkedin" },
 ]
 
 custom_css = []
