@@ -1,14 +1,6 @@
 +++
 title = "Markdown Test"
 date = "2022-01-01"
-updated = "2024-06-14"
-
-[taxonomies]
-tags=["educational", "tutorial"]
-
-[extra]
-repo_view = true
-read_time = true
 +++
 
 # H1
