@@ -1,7 +1,6 @@
 +++
-title= "Welcome to SeniorMars's Homepage!"
-description = "A blog about math, extremely niche interests, and a guy having fun."
+title= "Welcome to Charles' Website!"
+description = "A blog about my journey and exploration of various topics"
 +++
 
-Heyo! SeniorMars here. It's honestly weird to think that people will spend their time reading things I wrote ( I'm usually on the other side), but I'm hope you enjoy your stay here. You can learn more about me [here](/about) or explore the links up top. Frankly, I'm not sure what I want to make this site about - I like a lot of things, so I guess we'll see where this goes. In either case, this is a blog about math, extremely niche interests, and a guy having fun!
-
+Good morning you good people, I'm Charles! I'm planning on posting stuff here at semi-regular intervals as inspiration strikes, I'm doubtful anyone will read this but I thought it was high time I had a personal website so here we are !
