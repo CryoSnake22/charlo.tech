@@ -8,6 +8,9 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v4
+      - name: Debug Git Config
+        run: git config --global user.name "CryoSnake22"
+        run: git config --global user.email "65683733+CryoSnake22@users.noreply.github.com"
       - name: build_and_deploy
         uses: shalzz/zola-deploy-action@v0.17.2
         env:
