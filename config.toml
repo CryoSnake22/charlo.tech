@@ -30,9 +30,9 @@ mathjax = true
 mathjax_extra = true
 
 menu = [
-  { name = "/posts", url = "charlopl.com/posts", weight = 1 },
-  { name = "/projects", url = "charlopl.com/projects", weight = 2 },
-  { name = "/about", url = "charlopl.com/about", weight = 3 },
+  { name = "/posts", url = "/posts", weight = 1 },
+  { name = "/projects", url = "/projects", weight = 2 },
+  { name = "/about", url = "/about", weight = 3 },
 ]
 
 socials = [
