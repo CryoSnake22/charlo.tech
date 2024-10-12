@@ -1,3 +1,4 @@
+theme = "redux"
 base_url = "https://cryosnake22.github.io/charlopl.com"
 title = "CharloPL"
 description = "My personnal website"
@@ -6,7 +7,6 @@ feed_filenames = ["rss.xml"]
 generate_feeds = true
 compile_sass = true
 minify_html = true
-theme = "redux"
 
 [markdown]
 highlight_code = true
@@ -21,7 +21,7 @@ toc = true
 use_cdn = false
 favicon = "/icon/favicon.png"
 favicon_extra = false
-theme = "toggle"                                                       # light, dark, auto, toggle
+theme = "auto"                                                         # light, dark, auto, toggle
 comment = false
 fancy_code = true
 dynamic_note = true
@@ -30,9 +30,9 @@ mathjax = true
 mathjax_extra = true
 
 menu = [
-  { name = "/posts", url = "/posts", weight = 1 },
-  { name = "/projects", url = "/projects", weight = 2 },
-  { name = "/about", url = "/about", weight = 3 },
+  { name = "/posts", url = "charlopl.com/posts", weight = 1 },
+  { name = "/projects", url = "charlopl.com/projects", weight = 2 },
+  { name = "/about", url = "charlopl.com/about", weight = 3 },
 ]
 
 socials = [
