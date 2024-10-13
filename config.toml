@@ -17,11 +17,11 @@ external_links_no_referrer = true
 bottom_footnotes = true
 
 [extra]
-toc = true
+toc = false
 use_cdn = false
 favicon = "/icon/favicon.png"
 favicon_extra = false
-theme = "auto"                                                         # light, dark, auto, toggle
+theme = "toggle"                                                       # light, dark, auto, toggle
 comment = false
 fancy_code = true
 dynamic_note = true
