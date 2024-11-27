@@ -1,9 +1,10 @@
 +++
-title = "You need to Love Boring Stuff"
+title = "Boring Stuff is Cool Actually"
 date = "2024-10-13"
 +++
 
-# Why ?
+# How's that possible?
+
 I've struggled a lot with this issue in the past and I think you have too.
 You know you've got so much to do and you also know you should get started, but the thought of initiating the task makes doing the dishes seem like a vacation. I too have been stuck in procrastination hell,
 
@@ -48,4 +49,3 @@ Excitement is the equivalent to wanting to build a building, getting a loan, buy
 But without laying bricks one by one every day, you're never gonna have a building, just an empty lot with nothing but unrealized dreams. And this is where the boring stuff comes in. This is where learning to love laying those 10 bricks a day really pays off.
 
 So if you want to stop hoping and never achieving, you need to start doing this today. Time to fall in love with boring shit.
-
