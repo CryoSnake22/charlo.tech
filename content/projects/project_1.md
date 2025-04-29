@@ -1,11 +1,11 @@
 +++
-title = "Apollo"
-description = "Modern and minimalistic blog theme."
+title = "Fastai dog/cat classifier"
+description = "A minimalist gradio based dog/cat classifier"
 weight = 1
 
 [extra]
-local_image = ""
-link_to = "https://github.com/not-matthias/apollo"
+local_image = "../../public/images/whatda.png"
+link_to = "https://huggingface.co/spaces/Charlo22/fastai_pets"
 +++
 
-Example project page
+This project was basically just me getting familiar with gradio, struggling with .pkl files and trying to get a working prototype. I'm hoping to make bigger more interesting things in the future but one's gotta start somewhere right ?
