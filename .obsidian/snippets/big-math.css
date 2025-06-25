@@ -1,0 +1,10 @@
+mjx-math {
+  font-size: 100% !important;
+  font-weight: 400 !important;
+  font-style: normal;
+}
+.math {
+  font-family:
+    "CMU Serif", "Latin Modern Math", "Times New Roman", serif !important;
+  font-weight: 400 !important;
+}

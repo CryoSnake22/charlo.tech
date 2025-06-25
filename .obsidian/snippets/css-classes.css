@@ -1,0 +1,11 @@
+.imgscale img {
+  scale: 80%;
+}
+
+.imgscaleSmall img {
+  /* scale: 50%; */
+  height: 200px;
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}

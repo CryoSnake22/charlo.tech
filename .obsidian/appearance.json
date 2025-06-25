@@ -1,0 +1,23 @@
+{
+  "accentColor": "#424242",
+  "baseFontSize": 12,
+  "interfaceFontFamily": "CMU Serif Extra,JetBrains Mono NL,CMU Serif,MesloLGS NF",
+  "textFontFamily": "CMU Serif,JetBrains Mono NL,CMU Serif Extra,American Typewriter",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "enabledCssSnippets": [
+    "custom-admonitions.c3af76",
+    "main",
+    "css-classes",
+    "Colored Sidebar Items",
+    "callouts",
+    "old-obsidian-callouts",
+    "big-math"
+  ],
+  "cssTheme": "",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false,
+  "theme": "moonstone",
+  "baseFontSizeAction": false,
+  "showRibbon": false
+}

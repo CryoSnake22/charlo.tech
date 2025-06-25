@@ -1,0 +1,71 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "TemplaterScripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "04 School/Fall 2024",
+      "template": "Template Folder/Class note template.md"
+    },
+    {
+      "folder": "04 School",
+      "template": "Template Folder/School note template.md"
+    },
+    {
+      "folder": "01 Areas",
+      "template": "Template Folder/Area note template.md"
+    },
+    {
+      "folder": "03 Resources",
+      "template": "Template Folder/Ressource note template.md"
+    },
+    {
+      "folder": "02 Dailys",
+      "template": "Template Folder/Daily note template.md"
+    },
+    {
+      "folder": "06 Projects",
+      "template": "Template Folder/Fleeting note template.md"
+    },
+    {
+      "folder": "04 School/Fall 2024/Assignments",
+      "template": "Template Folder/Assignment note template.md"
+    },
+    {
+      "folder": "00 Projects",
+      "template": "Template Folder/Project note template.md"
+    },
+    {
+      "folder": "01 Areas/Mathematics/FactVault",
+      "template": "Template Folder/math_note.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1,
+  "enable_ribbon_icon": true
+}

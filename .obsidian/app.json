@@ -1,0 +1,25 @@
+{
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "06 Fleeting",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "showIndentGuide": false,
+  "spellcheck": false,
+  "readableLineLength": true,
+  "tabSize": 2,
+  "propertiesInDocument": "hidden",
+  "foldHeading": true,
+  "foldIndent": true
+}

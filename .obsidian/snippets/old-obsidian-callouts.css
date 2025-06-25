@@ -1,0 +1,72 @@
+.callout {
+  --callout-color: var(--text-normal);
+  background-color: rgb(0, 0, 0, 0);
+  border: solid var(--border-width);
+  border-radius: var(--size-2-3);
+  font-family:
+    CMU Serif,
+    Times,
+    Noto Serif JP;
+}
+
+.callout-title-inner {
+  color: var(--text-normal);
+}
+
+.callout-icon {
+  display: none;
+}
+.callout-title-inner {
+  font-family:
+    CMU Serif,
+    Times,
+    Noto Sans JP;
+  font-weight: bolder;
+}
+
+.callout-subtitle {
+  font-weight: normal;
+}
+.markdown-preview-view {
+    text-align: justify;
+}
+.cm-content {
+    text-align: justify;
+}
+/* :not(.theorem-callout-axiom):not(.theorem-callout-definition):not( */
+/*     .theorem-callout-remark */
+/*   ).theorem-callout-en */
+/*   .callout-content { */
+/*   font-style: italic; */
+/* } */
+
+
+
+
+
+/* body { */
+/*   --callout-border-width: 1 0 0 4px; */
+/*   --callout-border-opacity: 0.9; */
+/*   --callout-radius: 0px; */
+/*   --callout-padding: 0; */
+/*   --callout-title-padding: var(--size-4-4) var(--size-4-4); */
+/*   --callout-content-padding: var(--size-4-2) var(--size-4-4); */
+/* } */
+/* .callout-title-inner { */
+/*   color: var(--text-normal); */
+/* } */
+/* .callout-title { */
+/*   /* border-bottom: solid rgba(var(--callout-color), var(--callout-border-opacity)); */ */
+/**/
+/*   padding: 10px; */
+/* } */
+/* .callout-icon { */
+/*   display: none; */
+/* } */
+/* .callout-content { */
+/*   background-color: var(--background-primary-alt); */
+/*   padding-top: 0px; */
+/*   padding-left: 10px; */
+/*   padding-bottom: 0px; */
+/*   padding-right: 10px; */
+/* } */
