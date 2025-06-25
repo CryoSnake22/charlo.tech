@@ -1,6 +1,6 @@
 +++
 title = "A tiny dive into Topology"
-date = "Wed 25 Jun 2025"
+date = "2025-06-25"
 +++
 
 Whenever you talk about topology or hear about topology the first thing you'll get shown is a bunch of shapes like spheres, toruses, circles etc. "Woahhhh donut math" you might think. But the field of topology is WAY more abstract and weird than donuts and spheres.
