@@ -39,7 +39,7 @@ socials = [
   { name = "github", url = "https://github.com/CryoSnake22", icon = "github" },
   { name = "youtube", url = "", icon = "youtube" },
   { name = "rss", url = "", icon = "rss" },
-  { name = "linkedin", url = "", icon = "linkedin" },
+  { name = "linkedin", url = "https://www.linkedin.com/in/charles-antoine-pouliot-977286283/", icon = "linkedin" },
 ]
 
 custom_css = []

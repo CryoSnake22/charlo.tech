@@ -4,6 +4,6 @@ description = "A minimalist gradio based dog/cat classifier"
 weight = 1
 
 [extra]
-local_image = "/images/whatda.png"
+local_image = ""
 link_to = "https://huggingface.co/spaces/Charlo22/fastai_pets"
 +++
