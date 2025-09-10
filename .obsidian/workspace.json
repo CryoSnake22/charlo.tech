@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c15fe06b611b61c0",
+        "id": "dd6b8fc989d4ab29",
         "type": "tabs",
         "children": [
           {
-            "id": "d9fd8a89fc183417",
+            "id": "793b95a3326fc3e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/PolarPost.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PolarPost"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aaf833db89d8982a",
@@ -167,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -182,10 +186,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "d9fd8a89fc183417",
+  "active": "793b95a3326fc3e2",
   "lastOpenFiles": [
-    "scrap/post1.md",
     "content/posts/post3.md",
+    "content/posts/PolarPost.md",
+    "scrap/post2.md",
+    "scrap/post1.md",
     "scrap",
     "Heart.md",
     "themes/redux",
@@ -209,7 +215,6 @@
     "public/social_icons/stack-exchange.svg",
     "content/projects/project_1.md",
     "content/projects/_index.md",
-    "scrap/post2.md",
     "content/posts/_index.md",
     "content/about.md",
     "content/_index.md"
