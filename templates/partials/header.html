@@ -135,32 +135,23 @@
     {% endif %}
 
     {% if config.extra.mathjax | default(value=false) %}
-        {% if config.extra.mathjax_extra | default(value=false) %}
-        <script>
-            MathJax = {
-              loader: { load: ['input/asciimath'] },
-              output: {
-                  displayOverflow: 'linebreak',
-                      linebreaks: {
-                          inline: true,
-                          width: '100%',
-                          lineleading: .2,
-                          LinebreakVisitor: null,
-                  }
-              },
-              tex: {
-                inlineMath: [['$', '$']],
-                processEscapes: true,
-              },
-              svg: {
-                fontCache: 'global'
-              }
-            };
-        </script>
-        {% endif %}
-        <script type="text/javascript" id="MathJax-script" async
-            src="https://cdn.jsdelivr.net/npm/mathjax@4.0.0-beta.7/tex-mml-chtml.js">
-        </script>
+          {% if config.extra.mathjax_extra | default(value=false) %}
+          <script>
+          window.MathJax = {
+            loader: { load: ['[tex]/ams'] },
+            tex: {
+              packages: { '[+]': ['ams'] },
+              inlineMath: [['$', '$'], ['\\(', '\\)']],
+              displayMath: [['$$','$$'], ['\\[','\\]']],
+              processEscapes: true,
+              tags: 'ams'
+            }
+          };
+          </script>
+          <script id="MathJax-script" defer
+                  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>       
+          <link rel="stylesheet" type="text/css" href="{{ get_url(path='public/main.css') }}" />
+          {% endif %}
     {% endif %}
 
     {# RSS #}

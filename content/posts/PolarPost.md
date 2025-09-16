@@ -27,9 +27,9 @@ Or more nicely aligned:
 
 $$
 \begin{aligned}
-x & = r\sin \phi \cos \theta \\
-y & =r\sin \phi \sin \theta \\
-z  & =r\cos \phi \\
+x & = r\sin \phi \cos \theta \\\\
+y & =r\sin \phi \sin \theta \\\\
+z  & =r\cos \phi
 \end{aligned}
 $$
 
@@ -53,11 +53,11 @@ The same pattern flows down to $x_{n}$ in the following way:
 
 $$
 \begin{aligned}
-x_{1} & =r\cos \theta_{1}  \\
-x_{2} & =r\sin \theta_{1}\cos \theta_{2}  \\
-x_{3} & =r\sin \theta_{1}\sin \theta_{2}\cos\theta_{3}  \\
-\dots \\
-x_{n-1} & =r\sin \theta_{1}\dots \sin \theta_{n-2}\cos \theta_{n-1} \\
+x_{1} & =r\cos \theta_{1}  \\\\
+x_{2} & =r\sin \theta_{1}\cos \theta_{2}  \\\\
+x_{3} & =r\sin \theta_{1}\sin \theta_{2}\cos\theta_{3}  \\\\
+\dots \\\\
+x_{n-1} & =r\sin \theta_{1}\dots \sin \theta_{n-2}\cos \theta_{n-1} \\\\
 x_{n} & =r\sin \theta_{1}\dots \sin \theta_{n-2}\sin \theta_{n-1}
 \end{aligned}
 $$
@@ -66,8 +66,8 @@ So the last angle we measure has only compression from the last angle, no other 
 
 $$
 \begin{aligned}
-x_{1} & =r\cos \theta_{1} \\
-x_{2} & =r\sin \theta_{1}\cos \theta_{2} \\
+x_{1} & =r\cos \theta_{1} \\\\
+x_{2} & =r\sin \theta_{1}\cos \theta_{2} \\\\
 x_{3} & =r\sin \theta_{1}\sin \theta_{2}
 \end{aligned}
 $$
@@ -76,8 +76,8 @@ But wait a second, doesnt this mean that
 
 $$
 \begin{aligned}
-x_{1} & =r\cos \theta_{1}  & =z\\
-x_{2} & =r\sin \theta_{1}\cos \theta_{2} & =x \\
+x_{1} & =r\cos \theta_{1}  & =z\\\\
+x_{2} & =r\sin \theta_{1}\cos \theta_{2} & =x \\\\
 x_{3} & =r\sin \theta_{1}\sin \theta_{2} & =y
 \end{aligned}
 $$

@@ -55,8 +55,8 @@ We want to know how many iterations are needed to get a problem size of $c$ or t
 
 $$
 \begin{aligned}
-\frac{n}{b^{i}} & =c \\
-\frac{n}{c} & = b^{i} \\
+\frac{n}{b^{i}} & =c \\\\
+\frac{n}{c} & = b^{i} \\\\
 \log_{b} \frac{n}{c} & =i
 \end{aligned}
 $$
@@ -65,10 +65,9 @@ Which, by substitution leads to
 
 $$
 \begin{aligned}
-
-a^{i} & =a^{\log_{b} \frac{n}{c}} \\
- & =\left( \frac{n}{c} \right) ^{\log_{b}a }  \\
- & =c^{-\log_{b}a}\cdot n^{\log_{b}a}
+a^{i} & =a^{\log_{b} \frac{n}{c}} \\\\
+& =\left( \frac{n}{c} \right) ^{\log_{b}a }  \\\\
+& =c^{-\log_{b}a}\cdot n^{\log_{b}a}
 \end{aligned}
 $$
 

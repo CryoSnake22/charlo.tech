@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: https://cryosnake22.github.io/charlopl.com/sitemap.xml
