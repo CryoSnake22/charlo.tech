@@ -3,16 +3,10 @@ title = "About"
 path = "about"
 +++
 
-My name is Charles ! I'm a second year Data Science undergrad at the University of Ottawa.
+Good morning ! My name is Charles and I'm a second year Data Science undergrad at the University of Ottawa.
 
-My interests include but are not limited to mathematics, cybersecurity, AI and music. I used to study jazz piano in Cegep and Uni and loved it ! Now I'm dedicated to other things and channel that same sort of passion I had in my music studies into my curious pursuits.
+At first, I just wanted to study computer science, but then I took an intro to group theory class and got hooked on abstraction. And now I guess I just have to do Math too.
 
-I will not pretend to know what I'm doing, I am just as lost as anyone and have absolutely no clue if what I'm doing is right, optimal or (insert synonym of correctness). But I do know that pursuing what I love is worthwhile, so that's what I'm doing.
+As cliché as that may sound, I love learning. There's something so exciting about improving yourself and learning new things. I always like to imagine "if I was thrown onto a deserted island with no possessions, what would I be left with ?".
 
-I've dedicated myself to pursue things I believe are worthwhile and meaningful, I find it quite hard to do so when the subjects of study carry no meaning or depth. The deeper the insight, the more complex the problem, the more I find myself drawn to it.
-
-I hope I'm not sounding pretentious, this is merely a part of the ideas I struggle with every day (and I say "struggle" in the most positive way possible).
-
-On that note, I hope you come along with me on my journey.
-
-Let's struggle together !
+My current favorite hobby is Quantitative Finance. As someone who loves Mathematics, Computer Science and Finance, I was lost for a while and didn't know how to marry these interests together. Quantitative Finance marries all of those together in such a beautiful way that it almost feels like fate. I will not pretend to be an expert, but I am at the very least a very curious and passionate person.
