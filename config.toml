@@ -1,5 +1,5 @@
 theme = "redux"
-base_url = "charlo.tech"
+base_url = "https://charlo.tech/"
 title = "CharloPL"
 description = "My personnal website"
 build_search_index = false
